@@ -73,12 +73,11 @@ const concesionaria = {
             
             }
     
-
+/*
+Modelo de cliente:
     let cliente = {
         nombre: "Juan",
         capacidadDePagoEnCuotas: 20000,
         capacidadDePagoTotal: 1000000
     }
-    //console.log(concesionaria.autosParaLaVenta())
-    console.log(concesionaria.autosQuePuedeComprar(cliente));
-    
+    */
