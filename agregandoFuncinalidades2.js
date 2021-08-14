@@ -1,11 +1,4 @@
-/*Agregando funcionalidades
-Ahora, te comprometiste a realizarla. Así que manos a la obra. Hay que escribir la función autosQuePuedeComprar,
- que recibe una persona y devuelve la lista de autos que puede comprar.
-
-La función debe de realizar los siguientes pasos:
-Recordá ejecutar la función.
-*/
-const autos = require("./autos(AlFinEsTiempoDeCoder(1)) OK");
+const autos = require("./autos");
 const concesionaria = {
     autos: autos,
     buscarAuto: function(miPatente){
